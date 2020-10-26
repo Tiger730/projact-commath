@@ -6,7 +6,7 @@ import Elimination from "../views/Elimination";
 import Interpolation from "../views/Interpolation";
 import Differentiation from "../views/Differentiation";
 import Integration from "../views/Integration";
-import RootFinding from "../views/Rootfinding";
+import RootFinding from "../../src/views/Rootfinding";
 
 const routes = [
   {
