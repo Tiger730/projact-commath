@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/project-commath/static/css/main.523f09c5.chunk.css",
-    "main.js": "/project-commath/static/js/main.93bdda81.chunk.js",
-    "main.js.map": "/project-commath/static/js/main.93bdda81.chunk.js.map",
-    "runtime-main.js": "/project-commath/static/js/runtime-main.e2cd328b.js",
-    "runtime-main.js.map": "/project-commath/static/js/runtime-main.e2cd328b.js.map",
-    "static/js/2.b5e94ef9.chunk.js": "/project-commath/static/js/2.b5e94ef9.chunk.js",
-    "static/js/2.b5e94ef9.chunk.js.map": "/project-commath/static/js/2.b5e94ef9.chunk.js.map",
-    "index.html": "/project-commath/index.html",
-    "precache-manifest.35ce0df1ea20ff2366f2403891154a26.js": "/project-commath/precache-manifest.35ce0df1ea20ff2366f2403891154a26.js",
-    "service-worker.js": "/project-commath/service-worker.js",
-    "static/css/main.523f09c5.chunk.css.map": "/project-commath/static/css/main.523f09c5.chunk.css.map",
-    "static/js/2.b5e94ef9.chunk.js.LICENSE.txt": "/project-commath/static/js/2.b5e94ef9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/project-commath/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/projact-commath/static/css/main.523f09c5.chunk.css",
+    "main.js": "/projact-commath/static/js/main.af9b276c.chunk.js",
+    "main.js.map": "/projact-commath/static/js/main.af9b276c.chunk.js.map",
+    "runtime-main.js": "/projact-commath/static/js/runtime-main.88cd2a62.js",
+    "runtime-main.js.map": "/projact-commath/static/js/runtime-main.88cd2a62.js.map",
+    "static/js/2.b5e94ef9.chunk.js": "/projact-commath/static/js/2.b5e94ef9.chunk.js",
+    "static/js/2.b5e94ef9.chunk.js.map": "/projact-commath/static/js/2.b5e94ef9.chunk.js.map",
+    "index.html": "/projact-commath/index.html",
+    "precache-manifest.0cfb6c4e9e4da93db1960b1f085b72fa.js": "/projact-commath/precache-manifest.0cfb6c4e9e4da93db1960b1f085b72fa.js",
+    "service-worker.js": "/projact-commath/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/projact-commath/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.b5e94ef9.chunk.js.LICENSE.txt": "/projact-commath/static/js/2.b5e94ef9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/projact-commath/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e2cd328b.js",
+    "static/js/runtime-main.88cd2a62.js",
     "static/js/2.b5e94ef9.chunk.js",
     "static/css/main.523f09c5.chunk.css",
-    "static/js/main.93bdda81.chunk.js"
+    "static/js/main.af9b276c.chunk.js"
   ]
 }
