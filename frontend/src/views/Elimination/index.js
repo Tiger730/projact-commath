@@ -57,7 +57,7 @@ export default function Page() {
   const [x2, setx2] = useState("");
 
   const back = () => {
-    navigate("/pj");
+    navigate("/projact-commath");
   };
 
   const generate = () => {

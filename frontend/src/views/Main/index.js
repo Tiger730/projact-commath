@@ -15,18 +15,7 @@ import Container from '@material-ui/core/Container';
 import Box from '@material-ui/core/Box';
 import { useNavigate } from "react-router-dom";
 
-function Copyright() {
-    return (
-        <Typography variant="body2" color="textSecondary" align="center">
-            {'Copyright © '}
-            <Link color="inherit" href="https://material-ui.com/">
-                Website
-      </Link>{' '}
-            {new Date().getFullYear()}
-            {'.'}
-        </Typography>
-    );
-}
+
 
 const useStyles = makeStyles((theme) => ({
     
@@ -43,7 +32,7 @@ export default function MainPage() {
     const navigate = useNavigate();
 
     const nextPage = (page) => {
-        navigate("/pj/" + page);
+        navigate("/projact-commath/" + page);
     }
 
     return (
@@ -59,7 +48,7 @@ export default function MainPage() {
             </Container>
 
             <Container maxWidth="md" component="main">
-                <Grid container spacing={5} alignItems="flex-end">
+                <Grid container spacing={2} alignItems="flex-end">
                     <Grid item xs={12} sm={6} md={4}>
                         <Card>
                             <CardHeader

@@ -40,7 +40,7 @@ export default function Page() {
   };
 
   const back = () => {
-    navigate("/pj");
+    navigate("/projact-commath");
   };
 
   return (

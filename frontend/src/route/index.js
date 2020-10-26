@@ -17,7 +17,7 @@ const routes = [
   },
 
   {
-    path: 'pj',
+    path: 'projact-commath',
     children: [
       { path: '/', element: <Main/>},
 
